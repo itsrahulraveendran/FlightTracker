@@ -31,7 +31,7 @@ class FromToTextRow extends StatelessWidget {
         ),
         Text(toText, style: textStyle),
         SizedBox(
-          height: 5,
+          height: 10,
         ),
       ],
     );
